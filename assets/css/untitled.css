@@ -1,5 +1,8 @@
 
-
+#logo {
+height: 60px;
+width: auto;
+}
 #welcome {
   color: black;
 }
